@@ -8,9 +8,6 @@ This project investigates clinical predictors of survival among head and neck ca
 - **Log-Rank Tests:** Confirmed significant survival differences across ECOG groups (p < 0.001)
 - **Cox Proportional Hazards Model:**
   - Included Age, Sex, ECOG
-  - Concordance Index: 0.68
+  
   - ECOG and Age were significant predictors
-- **Random Survival Forests (RSF):**
-  - C-index: 0.702
-  - Top predictors: ECOG score and Smoking exposure
-
+-
